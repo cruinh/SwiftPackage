@@ -1,0 +1,4 @@
+func packageTest()
+{
+   print("packageTest")
+}
